@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4608
     wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26838#A-History-of-the-French-Novel-Vol.-1From-the-Beginning-to-1800
 gutenberg_issued: '2008-10-08'
 gutenberg_type: Text
 identifiers:
